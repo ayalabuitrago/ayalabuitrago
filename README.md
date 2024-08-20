@@ -3,7 +3,7 @@ Hi there! 👋, I am a passionate full-stack developer from Nicaragua with two y
 
 I started learning programming when I was studying my Associate Degree in Programming, where I learned the basics of programming, logic, concepts, and where I fell in love with this beautiful world of talking to the computer and understand it.
 
-I am passionate about learning more about the technological world and I hope to contribute in important development challenges 💪.
+I am passionate about learning more about the technological world and I hope to contribute in important development challenges 💪. Let's Code!!!
 
 
 ## 🌐 Socials:
