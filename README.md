@@ -1,5 +1,9 @@
 # 💫 About Me:
-A passionate full stack developer from Nicaragua
+Hola que tal 👋, I am a passionate full-stack developer from Nicaragua with two years of experience specializing in Angular and .NET. I'm currently studying computer engineering at the <a href="https://uni.edu.ni">Universidad Nacional de Ingeniería</a> of Nicaragua 💙.
+
+I started learning programming when I was studying my Associate Degree in Programming, where I learned the basics of programming, logic, concepts, and where I fell in love with this beautiful world of talking to the computer and understand it.
+
+I am passionate about learning more about the technological world and I hope to contribute in important development challenges 💪.
 
 
 ## 🌐 Socials:
