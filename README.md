@@ -1,4 +1,4 @@
-# 💫 Cobre mi:
+# 💫 Sobre mi:
 ¡Hola! 👋 Soy Jef, un Desarrollador de Software de Nicaragua. Con aproximadamente cuatro años de experiencia profesional, he trabajado en la creación de soluciones tecnológicas para sectores exigentes y de alta demanda.
 
 Actualmente soy estudiante de Ingeniería en Computación en la Universidad Nacional de Ingeniería (UNI), enfocándome en mi proyecto de tesis. Me apasiona profundamente el diseño de sistemas escalables y el desarrollo backend. Mi trabajo diario se centra en el ecosistema .NET y la creación de APIs robustas, aplicando siempre buenas prácticas y patrones de diseño como Clean Architecture, CQRS y Arquitectura Hexagonal.
